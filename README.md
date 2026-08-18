@@ -4,6 +4,12 @@ Dieses Projekt ist ein Schulprojekt für Softwareentwicklung (SEW) und wurde als
 
 Es handelt sich um eine klassische Pong-Variante in Java mit JavaFX. Ziel des Projekts war die Umsetzung von objektorientierter Programmierung, GUI-Entwicklung mit JavaFX und einer einfachen Spiel- und KI-Struktur.
 
+## Screenshots
+
+| Hauptmenü | Gameplay |
+| :---: | :---: |
+| ![Pong Hauptmenü](screenshots/pong_mainmenu.png) | ![Pong Gameplay](screenshots/pong_ingame.png) |
+
 ## Projektstruktur
 
 - [`Launcher.java`](file:///Users/metiny/Desktop/github/pong/src/main/java/com/example/pong/Launcher.java) – Startpunkt der Java-Anwendung
